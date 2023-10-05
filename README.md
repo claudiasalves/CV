@@ -3,16 +3,12 @@
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 
-## ![#1589F0] Projects
+## #1589F0 Projects
 
-|     Name      |             Description               |        Tech/tools           |
-| ------------- | ------------------------------------- | --------------------------- |
-|               | Group project to build a social media | JavaScript, CSS, HTML,      |
-| **Acebook**   | web application using MERN stack and  | React, MongoDB,             |
-|               | remote image hosting.                 | Express.JS, Node.JS         |
-|               | Group project to create a simple      | Python, HTML,               |
-| **MakersBnB** | Airbnb-style web application, over    | CSS, PostgresSQL            |    
-|               | the course of 4 days.                 |                             |
+| Name      |  Description    | Tech/tools                  |
+| :---:         | :---:                                 | :---:                       |
+| **Acebook**   | Group project to build a social media<br>web application using MERN stack and<br>remote image hosting. | JavaScript, CSS, HTML, React, MongoDB, Express.JS, Node |
+| **MakersBnB** | Airbnb-style web application, over<br>the course of 4 days. | Python, HTML, CSS, PostgresSQL  |    
 | **Notes App** | Notes app that runs in a web browser. | Javascript, HTML, CSS, Jest | 
 
 
