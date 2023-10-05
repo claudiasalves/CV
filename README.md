@@ -1,14 +1,14 @@
-## Your Name
+# Claudia Alves
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 
-## #1589F0 Projects
+## Projects
 
 | Name      |  Description    | Tech/tools                  |
 | :---:         | :---:                                 | :---:                       |
-| **Acebook**   | Group project to build a social media<br>web application using MERN stack and<br>remote image hosting. | JavaScript, CSS, HTML, React, MongoDB, Express.JS, Node |
-| **MakersBnB** | Airbnb-style web application, over<br>the course of 4 days. | Python, HTML, CSS, PostgresSQL  |    
+| **Acebook**   | Group project to build a social media web application using MERN stack and<br>remote image hosting. | JavaScript, CSS, HTML, React, MongoDB, Express.JS, Node |
+| **MakersBnB** | Airbnb-style web application, over the course of 4 days. | Python, HTML, CSS, PostgresSQL  |    
 | **Notes App** | Notes app that runs in a web browser. | Javascript, HTML, CSS, Jest | 
 
 
