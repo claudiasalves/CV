@@ -14,15 +14,38 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Head of department - Clinical Physiology** (Feb 2020 to Jun 2023)  
+_Cromwell Hospital_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Exceeded KPI targets, with an increase of 39% in profit from 2021 to 2022, and 76% from 2019 (pre-pandemic) to 2022 
+- Managed and coached a high performing team of 13 with a varied skill set from clinical to administrative roles 
+- Designed and maintained an operational reporting framework, and presented this information to key stakeholders and executive team to support various decisions that increased capacity
+- Implemented changes in operations and processes according to clinical guidance in order to maintain a safe environment for both staff and customers during the pandemic
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**Account Manager** (Sep 2019 to Dec 2019)  
+_Method_
+
+- Provided excellent customer service and built strong relationships by attending meetings with clients, supporting with ad-hod requests and being the point of contact in the agency start-up 
+- Managed social media (Facebook, LinkedIn) using integrated marketing campaigns to build brand awareness
+- Analysed data from a webinar registration campaign on social media, and presented the report to clients with suggestions of improvements that resulted in an increase of registrations
+
+
+**Account Manager** (Jan 2018 to Aug 2019)  
+_W2O_
+
+- Managed different aspects of my clients' accounts, including finance and project management, as well as client relationship
+- Led the creation of PR and marketing materials for rare diseases and oncology, working with key executive stakeholders and design, copywriting and development teams, to consistently deliver on time and within budget 
+- Facilitated and supported all aspects of organising an event in London for key opinion leaders in rare diseases based in South America
+- Collaborated in the development of an unbranded campaign, involving both print and digital strategies, to raise awareness of breast cancer
+
+
+**Clinical Physiologistr** (Sep 2010 to Dec 2017)  
+_Various hospitals in the UK & VitalAire in Portugal_
+
+- Performed a range of diagnostic tests throughout UK hospitals
+- Developed organisational skills and time management to accommodate the different working methods used in different departments to streamline and improve processes
+
 
 ## Skills
 
