@@ -2,12 +2,19 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## ![#1589F0] Projects
+
+|     Name      |             Description               |        Tech/tools           |
+| ------------- | ------------------------------------- | --------------------------- |
+|               | Group project to build a social media | JavaScript, CSS, HTML,      |
+| **Acebook**   | web application using MERN stack and  | React, MongoDB,             |
+|               | remote image hosting.                 | Express.JS, Node.JS         |
+|               | Group project to create a simple      | Python, HTML,               |
+| **MakersBnB** | Airbnb-style web application, over    | CSS, PostgresSQL            |    
+|               | the course of 4 days.                 |                             |
+| **Notes App** | Notes app that runs in a web browser. | Javascript, HTML, CSS, Jest | 
+
 
 ## Work Experience
 
