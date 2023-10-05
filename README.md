@@ -71,24 +71,20 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Jun 2023 to October 2023)
+Full-time software development course focusing on:
+- Object-Oriented Programming, Test Driven Development
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web apps
+- Python, Javascript, Node.js, React, SQL, MongoDB, Swift
 
-#### Your University / College (start_date to end_date)
+#### Birkbeck University London (2016 - 2017)
+- Masters in Marketing
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### Escola Superior Tecnologias da Saude do Porto, Portugal (2006 - 2010)
+- Bachelor in Clinical Physiology
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
