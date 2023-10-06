@@ -22,7 +22,7 @@ _Cromwell Hospital_
 - Managed and coached a high performing team of 13 with a varied skill set from clinical to administrative roles 
 - Designed and maintained an operational reporting framework, and presented this information to key stakeholders and executive team to support various decisions that increased capacity
 - Implemented changes in operations and processes according to clinical guidance in order to maintain a safe environment for both staff and customers during the pandemic
-
+<br>
 
 **Account Manager** (Sep 2019 to Dec 2019)  
 _Method_
