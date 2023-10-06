@@ -1,7 +1,7 @@
 # Claudia Alves
 
 Aspiring software developer looking to change careers following my immersive experience in the Maker’s coding bootcamp. Clinician and Department Head with 10+ years in the healthcare industry, spanning physiology, account management, operations and team leadership.<br>
-My career has been driven by my passion for delivering exceptional results and for always pursuing growth and continuous learning. Whilst I’m only starting to develop my technical skills as a software developer, I can bring valuable transferable skills such as problem-solving, project delivery and execution and collaboration/ team work.
+My career has been driven by my passion for delivering exceptional results and for always pursuing growth and continuous learning. Whilst I’m only starting to develop my technical skills as a software developer, I can bring valuable transferable skills such as problem-solving, project delivery and execution and collaboration/ teamwork.
 
 
 ## Projects
@@ -27,7 +27,7 @@ _Cromwell Hospital_
 **Account Manager** (Sep 2019 to Dec 2019)  
 _Method_
 
-- Provided excellent customer service and built strong relationships by attending meetings with clients, supporting with ad-hod requests and being the point of contact in the agency start-up 
+- Provided excellent customer service and built strong relationships by attending meetings with clients, supporting with ad-hoc requests and being the point of contact in the agency start-up 
 - Managed social media (Facebook, LinkedIn) using integrated marketing campaigns to build brand awareness
 - Analysed data from a webinar registration campaign on social media, and presented the report to clients with suggestions of improvements that resulted in an increase of registrations
 
@@ -50,27 +50,15 @@ _Various hospitals in the UK & VitalAire in Portugal_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Adaptability and problem-solving
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Adaptability, rapidly responding to dynamic business needs
-
+- Adjusted quickly to different work settings, from the NHS to start-ups with a demanding and high-pressure environment 
 - Implemented changes according to updates in guidelines, building and nurturing relationships with key stakeholders and managing resources efficiently 
 - Planned an increase in capacity based on data analysis (KPIs, revenue) and operational forecast
-- Adjusted quickly to different work settings, from the NHS to start-ups with a demanding and high-pressure environment 
 
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Communication and teamwork
+- Managed a cross-functional team of 13 with a varied skill set from clinical to administrative roles
+- Handled client relationships and liaised with different teams, including designers, developers, project managers, editors, to develop and progress the projects
 
 
 ## Education
@@ -82,13 +70,10 @@ Full-time software development course focusing on:
 - Web frameworks, version control, and CI/CD to create full stack web apps
 - Python, Javascript, Node.js, React, SQL, MongoDB, Swift
 
+
 #### Birkbeck University London (2016 - 2017)
 - Masters in Marketing
 
+
 #### Escola Superior Tecnologias da Saude do Porto, Portugal (2006 - 2010)
 - Bachelor in Clinical Physiology
-
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
