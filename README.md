@@ -1,6 +1,6 @@
 # Claudia Alves
 
-Aspiring software developer looking to change careers following my immersive experience in the Maker’s coding bootcamp. Clinician and Department Head with 10+ years in the healthcare industry, spanning physiology, account management, operations and team leadership. 
+Aspiring software developer looking to change careers following my immersive experience in the Maker’s coding bootcamp. Clinician and Department Head with 10+ years in the healthcare industry, spanning physiology, account management, operations and team leadership.<br>
 My career has been driven by my passion for delivering exceptional results and for always pursuing growth and continuous learning. Whilst I’m only starting to develop my technical skills as a software developer, I can bring valuable transferable skills such as problem-solving, project delivery and execution and collaboration/ team work.
 
 
@@ -57,8 +57,11 @@ Consider skills relevent to software development. Then consider projects you've 
 
 Here's an example
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+#### Adaptability, rapidly responding to dynamic business needs
+
+- Implemented changes according to updates in guidelines, building and nurturing relationships with key stakeholders and managing resources efficiently 
+- Planned an increase in capacity based on data analysis (KPIs, revenue) and operational forecast
+- Adjusted quickly to different work settings, from the NHS to start-ups with a demanding and high-pressure environment 
 
 #### Another skill
 
