@@ -1,6 +1,6 @@
 # Claudia Alves
 
-Aspiring software developer looking to change careers following my immersive experience in the Maker’s coding bootcamp. Clinician and Department Head with 10+ years in the healthcare industry, spanning physiology, account management, operations and team leadership.<br>
+Aspiring software developer looking to change careers following my immersive experience in the Maker’s coding bootcamp. Clinician and Department Head with 10+ years in the healthcare industry, spanning physiology, account management, operations and team leadership.<br><br>
 My career has been driven by my passion for delivering exceptional results and for always pursuing growth and continuous learning. Whilst I’m only starting to develop my technical skills as a software developer, I can bring valuable transferable skills such as problem-solving, project delivery and execution and collaboration/ teamwork.
 
 
@@ -30,7 +30,7 @@ _Method_
 - Provided excellent customer service and built strong relationships by attending meetings with clients, supporting with ad-hoc requests and being the point of contact in the agency start-up 
 - Managed social media (Facebook, LinkedIn) using integrated marketing campaigns to build brand awareness
 - Analysed data from a webinar registration campaign on social media, and presented the report to clients with suggestions of improvements that resulted in an increase of registrations
-
+<br>
 
 **Account Manager** (Jan 2018 to Aug 2019)  
 _W2O_
@@ -39,7 +39,7 @@ _W2O_
 - Led the creation of PR and marketing materials for rare diseases and oncology, working with key executive stakeholders and design, copywriting and development teams, to consistently deliver on time and within budget 
 - Facilitated and supported all aspects of organising an event in London for key opinion leaders in rare diseases based in South America
 - Collaborated in the development of an unbranded campaign, involving both print and digital strategies, to raise awareness of breast cancer
-
+<br>
 
 **Clinical Physiologist** (Sep 2010 to Dec 2017)  
 _Various hospitals in the UK & VitalAire in Portugal_
@@ -55,7 +55,7 @@ _Various hospitals in the UK & VitalAire in Portugal_
 - Adjusted quickly to different work settings, from the NHS to start-ups with a demanding and high-pressure environment 
 - Implemented changes according to updates in guidelines, building and nurturing relationships with key stakeholders and managing resources efficiently 
 - Planned an increase in capacity based on data analysis (KPIs, revenue) and operational forecast
-
+<br>
 #### Communication and teamwork
 - Managed a cross-functional team of 13 with a varied skill set from clinical to administrative roles
 - Handled client relationships and liaised with different teams, including designers, developers, project managers, editors, to develop and progress the projects
