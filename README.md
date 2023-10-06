@@ -1,6 +1,7 @@
 # Claudia Alves
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Aspiring software developer looking to change careers following my immersive experience in the Maker’s coding bootcamp. Clinician and Department Head with 10+ years in the healthcare industry, spanning physiology, account management, operations and team leadership. 
+My career has been driven by my passion for delivering exceptional results and for always pursuing growth and continuous learning. Whilst I’m only starting to develop my technical skills as a software developer, I can bring valuable transferable skills such as problem-solving, project delivery and execution and collaboration/ team work.
 
 
 ## Projects
@@ -14,7 +15,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Head of department - Clinical Physiology** (Feb 2020 to Jun 2023)  
+**Head of Department - Clinical Physiology** (Feb 2020 to Jun 2023)  
 _Cromwell Hospital_
 
 - Exceeded KPI targets, with an increase of 39% in profit from 2021 to 2022, and 76% from 2019 (pre-pandemic) to 2022 
@@ -40,7 +41,7 @@ _W2O_
 - Collaborated in the development of an unbranded campaign, involving both print and digital strategies, to raise awareness of breast cancer
 
 
-**Clinical Physiologistr** (Sep 2010 to Dec 2017)  
+**Clinical Physiologist** (Sep 2010 to Dec 2017)  
 _Various hospitals in the UK & VitalAire in Portugal_
 
 - Performed a range of diagnostic tests throughout UK hospitals
@@ -80,7 +81,6 @@ Full-time software development course focusing on:
 
 #### Birkbeck University London (2016 - 2017)
 - Masters in Marketing
-
 
 #### Escola Superior Tecnologias da Saude do Porto, Portugal (2006 - 2010)
 - Bachelor in Clinical Physiology
