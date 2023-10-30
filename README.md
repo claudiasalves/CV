@@ -99,6 +99,4 @@ Full-time software development course focusing on:
 - Bachelor in Clinical Physiology
 
 
-<div id="ProfileView" align="center">
-<img src="https://komarev.com/ghpvc/?username=claudiasalves&style=flat-square&color=blue" alt=""/>
-</div>
+
