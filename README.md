@@ -31,7 +31,7 @@ My career has been driven by my passion for delivering exceptional results and f
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 
-## Work Experience
+## 👩‍💻 Work Experience
 
 **Head of Department - Clinical Physiology** (Feb 2020 to Jun 2023)  
 _Cromwell Hospital_
@@ -97,3 +97,8 @@ Full-time software development course focusing on:
 
 #### Escola Superior Tecnologias da Saude do Porto, Portugal (2006 - 2010)
 - Bachelor in Clinical Physiology
+
+
+<div id="ProfileView" align="center">
+<img src="https://komarev.com/ghpvc/?username=claudiasalves&style=flat-square&color=blue" alt=""/>
+</div>
