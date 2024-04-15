@@ -80,7 +80,7 @@ _Various hospitals in the UK & VitalAire in Portugal_
 <br>
 
 #### Problem-solving and self-starter
-- Degubbing and troubleshooting in my projects, by resolving errors, researching solutions, reading documentation and using Chrome DevTools
+- Debugging and troubleshooting my projects, by resolving errors, researching solutions, reading documentation and using Chrome DevTools
 - Successfully completed a coding bootcamp with no previous experience in software development
 <br>
 
