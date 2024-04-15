@@ -8,7 +8,8 @@ My career has been driven by my passion for delivering exceptional results and f
 
 | Name      |  Description   | Tech/tools   |
 | :---:         | :---:      | :---:         |
-| **Acebook**   | Group project to build a social media web application using MERN stack and<br>remote image hosting. | JavaScript, CSS, HTML, React, MongoDB, Express.JS, Node |
+| **Ecommerce Webpage** | Ecommerce page, with an AI chat box  | Javascript, NextJS, MongoDB, Tailwind |
+| **Acebook**   | Group project to build a social media web application using MERN stack and<br>remote image hosting. | JavaScript, CSS, HTML, React, MongoDB, Express.JS, Node, Jest, Playwright |
 | **MakersBnB** | Airbnb-style web application, over the course of 4 days. | Python, HTML, CSS, PostgresSQL  |    
 | **Notes App** | Notes app that runs in a web browser. | Javascript, HTML, CSS, Jest | 
 
@@ -37,9 +38,9 @@ My career has been driven by my passion for delivering exceptional results and f
 _Cromwell Hospital_
 
 - Exceeded KPI targets, with an increase of 39% in profit from 2021 to 2022, and 76% from 2019 (pre-pandemic) to 2022 
-- Managed and coached a high performing team of 13 with a varied skill set from clinical to administrative roles 
-- Designed and maintained an operational reporting framework, and presented this information to key stakeholders and executive team to support various decisions that increased capacity
-- Implemented changes in operations and processes according to clinical guidance in order to maintain a safe environment for both staff and customers during the pandemic
+- Managed and coached a high-performing team of 13 with a varied skill set from clinical to administrative roles 
+- Designed and maintained an operational reporting framework, and presented this information to key stakeholders and the executive team to support various decisions that increased capacity
+- Implemented changes in operations and processes according to clinical guidance to maintain a safe environment for both staff and customers during the pandemic
 <br>
 
 **Account Manager** (Sep 2019 to Dec 2019)  
@@ -68,17 +69,23 @@ _Various hospitals in the UK & VitalAire in Portugal_
 
 ## Skills
 
-#### Adaptability and problem-solving
+#### Adaptability
 
 - Adjusted quickly to different work settings, from the NHS to start-ups with a demanding and high-pressure environment 
-- Implemented changes according to updates in guidelines, building and nurturing relationships with key stakeholders and managing resources efficiently 
+- Implemented changes in the department's operating procedures, to align with updates in guidelines
 - Planned an increase in capacity based on data analysis (KPIs, revenue) and operational forecast
 <br>
 
-#### Communication and teamwork
-- Managed a cross-functional team of 13 with a varied skill set from clinical to administrative roles
-- Handled client relationships and liaised with different teams, including designers, developers, project managers, editors, to develop and progress the projects
+#### Problem-solving and self-starter
+- Degubbing and troubleshooting in my projects, by resolving errors, researching solutions, reading documentation and using Chrome DevTools
+- Successfully completed a coding bootcamp with no previous experience in software development
+<br>
 
+#### Communication, teamwork and collaboration
+- Managed a cross-functional team of 13 with a varied skill set from clinical to administrative roles, having won an award for achieving one of the highest scores for team satisfaction in a company-wide employee survey
+- Strengthened relationships with key stakeholders, such as consultants, which led to an increase in clinical referrals to the department
+- Participated and presented in meetings with the leadership team 
+- Handled client relationships and liaised with different teams, including designers, developers, project managers, and editors, to develop and progress the projects
 <br> 
 
 ## Education
