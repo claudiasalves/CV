@@ -36,6 +36,7 @@ My career has been driven by my passion for delivering exceptional results and f
 
 **Head of Department - Clinical Physiology** (Feb 2020 to Jun 2023)
 **Bank Clinical Physiologist** (Jul 2023 to present)
+<br>
 _Cromwell Hospital_
 
 - Exceeded KPI targets, with an increase of 39% in profit from 2021 to 2022, and 76% from 2019 (pre-pandemic) to 2022 
