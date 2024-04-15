@@ -8,7 +8,7 @@ My career has been driven by my passion for delivering exceptional results and f
 
 | Name      |  Description   | Tech/tools   |
 | :---:         | :---:      | :---:         |
-| **Ecommerce Webpage** | Ecommerce page, with an AI chat box  | Javascript, NextJS, MongoDB, Tailwind |
+| **E-commerce Webpage** | E-commerce page, with an AI chatbox  | Javascript, NextJS, MongoDB, Tailwind |
 | **Acebook**   | Group project to build a social media web application using MERN stack and<br>remote image hosting. | JavaScript, CSS, HTML, React, MongoDB, Express.JS, Node, Jest, Playwright |
 | **MakersBnB** | Airbnb-style web application, over the course of 4 days. | Python, HTML, CSS, PostgresSQL  |    
 | **Notes App** | Notes app that runs in a web browser. | Javascript, HTML, CSS, Jest | 
@@ -34,13 +34,15 @@ My career has been driven by my passion for delivering exceptional results and f
 
 ## 👩‍💻 Work Experience
 
-**Head of Department - Clinical Physiology** (Feb 2020 to Jun 2023)  
+**Head of Department - Clinical Physiology** (Feb 2020 to Jun 2023)
+**Bank Clinical Physiologist** (Jul 2023 to present)
 _Cromwell Hospital_
 
 - Exceeded KPI targets, with an increase of 39% in profit from 2021 to 2022, and 76% from 2019 (pre-pandemic) to 2022 
 - Managed and coached a high-performing team of 13 with a varied skill set from clinical to administrative roles 
 - Designed and maintained an operational reporting framework, and presented this information to key stakeholders and the executive team to support various decisions that increased capacity
 - Implemented changes in operations and processes according to clinical guidance to maintain a safe environment for both staff and customers during the pandemic
+- Supported the team with clinical duties in ad-hoc shifts since resigning as head of the department
 <br>
 
 **Account Manager** (Sep 2019 to Dec 2019)  
@@ -94,7 +96,7 @@ _Various hospitals in the UK & VitalAire in Portugal_
 Full-time software development course focusing on:
 - Object-Oriented Programming, Test Driven Development
 - Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
+- Web frameworks, version control, and CI/CD to create full-stack web apps
 - Python, Javascript, Node.js, React, SQL, MongoDB, Swift
 
 
