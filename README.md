@@ -34,7 +34,7 @@ My career has been driven by my passion for delivering exceptional results and f
 
 ## 👩‍💻 Work Experience
 
-**Head of Department - Clinical Physiology** (Feb 2020 to Jun 2023)
+**Head of Department - Clinical Physiology** (Feb 2020 to Jun 2023) <br>
 **Bank Clinical Physiologist** (Jul 2023 to present)
 <br>
 _Cromwell Hospital_
